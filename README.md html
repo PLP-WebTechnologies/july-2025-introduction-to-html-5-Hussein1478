@@ -1,0 +1,115 @@
+# GreenTech Solutions 
+
+Hey there! Welcome to our first version of the GreenTech Solutions website. This is where we started our journey to help businesses go green without breaking the bank.
+
+## What This Is
+
+This is a simple, semantic HTML5 landing page we built for GreenTech Solutions - our fictional (but totally realistic) sustainable tech company. Think of it as the "hello world" of green business websites, but way more polished.
+
+### Why We Built This
+
+We needed a clean, accessible website that would:
+- Show businesses we're legit and know our stuff
+- Explain our services without the usual corporate BS
+- Actually work for people using screen readers and other assistive tech
+- Rank well on Google (because what's the point of a great site if nobody finds it?)
+
+## What's Inside
+
+The site covers our three main services:
+- **Solar installations** that actually make financial sense
+- **Smart building automation** that doesn't require a PhD to understand
+- **Sustainability consulting** for companies tired of greenwashing
+
+Plus some client testimonials, company info, and all the usual landing page stuff you'd expect.
+
+## Tech Stack (Spoiler: It's Refreshingly Simple)
+
+- **HTML5** - That's it. No frameworks, no fancy build tools, no JavaScript libraries.
+- **Semantic markup** - We used proper HTML elements instead of div soup
+- **Zero dependencies** - Opens in any browser from 2010 onwards
+
+### Why Just HTML?
+
+Sometimes you don't need React for everything. This v1 proves you can build something professional and accessible with just good old HTML. Plus:
+- Loads instantly (even on slow connections)
+- Works with JavaScript disabled
+- Easy for anyone on the team to edit
+- Search engines love it
+
+## What Makes It Special
+
+### Accessibility First
+- Proper heading hierarchy (h1 → h2 → h3, no skipping)
+- ARIA landmarks for screen readers
+- Meaningful link text (no "click here" nonsense)
+- Semantic HTML elements that actually mean something
+
+### SEO Ready
+- Meta tags that don't suck
+- Open Graph tags for social media
+- Structured content that Google can understand
+- Internal linking that makes sense
+
+### Real-World Content
+Instead of Lorem ipsum, we wrote actual business copy that:
+- Addresses real pain points (high energy costs)
+- Uses specific numbers and examples
+- Sounds like humans wrote it, not marketing robots
+
+## The File Structure
+
+```
+├── index.html          # The whole site (yep, just one file)
+└── README.md          # You're reading it!
+```
+
+Told you it was simple.
+
+## Getting Started
+
+1. Download `index.html`
+2. Open it in any browser
+3. That's literally it
+
+Want to edit it? Open in any text editor. No build process, no npm install, no "it works on my machine" issues.
+
+## What We Learned
+
+Building this taught us a few things:
+- **Semantic HTML is powerful** - Using `<article>`, `<section>`, and `<aside>` properly makes content way more accessible
+- **Less is often more** - One well-structured HTML file beats a bloated framework for simple sites
+- **Content is king** - All the fancy CSS in the world can't fix boring, generic copy
+
+## What's Next (v2 Ideas)
+
+We're keeping this version as-is for reference, but future versions might include:
+- [ ] Basic CSS for styling (while keeping the clean HTML structure)
+- [ ] Contact form with simple JavaScript
+- [ ] Image gallery of completed projects
+- [ ] Blog section for SEO content
+- [ ] Mobile-optimized CSS Grid layout
+
+## Contributing
+
+Found a typo? Want to improve the copy? Feel free to:
+1. Fork this
+2. Make your changes
+3. Submit a pull request
+
+We're especially interested in:
+- Accessibility improvements
+- Better SEO optimization
+- More realistic business copy
+- Additional semantic HTML examples
+
+## Browser Support
+
+Works in literally every browser :
+- ✅ Chrome/Edge (all versions)
+- ✅ Firefox (all versions)  
+- ✅ Safari (all versions)
+- ✅ Internet Explorer 11+ (if anyone still uses it)
+- ✅ Mobile browsers
+- ✅ Text-based browsers like Lynx
+
